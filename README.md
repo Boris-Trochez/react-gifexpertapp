@@ -1,3 +1,5 @@
+This project was created in order to practice and make solid React knowledge and javaScript methods like making request to APIS through Fetch method.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
